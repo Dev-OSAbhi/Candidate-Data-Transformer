@@ -1,0 +1,13 @@
+[
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "contactEmail": "jane.doe@example.com",
+        "contactPhone": "415-555-1234",
+        "tags": [
+            "Python",
+            "AWS",
+            "Docker"
+        ]
+    }
+]
